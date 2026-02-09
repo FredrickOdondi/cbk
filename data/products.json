@@ -1,0 +1,13 @@
+[
+  {
+    "title": "KJV",
+    "author": "Christian Book Store Kenya",
+    "category": "bible",
+    "description": "The Holly Bible",
+    "price": 2500,
+    "image": "/uploads/c8a8e98b-666e-4966-94a4-877643497a2b.jpeg",
+    "inStock": true,
+    "id": "1770678536249",
+    "createdAt": "2026-02-09T23:08:56.249Z"
+  }
+]
