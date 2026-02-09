@@ -1,7 +1,7 @@
 'use client';
 
 import { Blog } from '@/types/blog';
-import { Pencil, Trash2, Eye, EyeOff } from '@/components/icons';
+import { Pencil, Trash2 } from '@/components/icons';
 
 interface BlogListProps {
   blogs: Blog[];
